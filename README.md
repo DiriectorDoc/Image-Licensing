@@ -53,7 +53,7 @@ This image uses a partially similar depiction of a Mii (copyright Nintendo). Alt
 This logo image consists only of simple geometric shapes or text. It does not meet the threshold of originality needed for copyright protection and is therefore in the public domain.
 
 ## jQlipboard
-<img src="https://diriectordoc.github.io/img/Example-jQlipboard.png" height=250 alt="jQlipboard" />
+![jQlipboard](https://diriectordoc.github.io/img/Example-jQlipboard.png)
 
 As the owner, I hereby release this image under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ### You are free to:
